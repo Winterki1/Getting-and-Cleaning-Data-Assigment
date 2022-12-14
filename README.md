@@ -1,2 +1,2 @@
-# Getting-and-Cleaning-Data-Assigment
+# Getting-and-Cleaning-Data-Assignment
 Assignment for Getting and Cleaning Data - Peer reviewed
